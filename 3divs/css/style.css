@@ -1,0 +1,28 @@
+/*classe no css é representada por .*/
+.container{
+  width: 98.8vw;
+  height: 800px;
+  background-color: pink;
+  border: 2px; 
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  font-family: Arial;
+  font-size: xx-large;
+  color: brown;
+  text-align: center;
+  text-shadow: 2px 2px rgb(68, 10, 125);
+  }
+  .brancaTime{
+    width: 40vw;
+    height: 600px;
+    background-color: white;
+    border: 2px; 
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius:50%;
+    font-family: fantasy;
+    color: black;
+    font-size: x-large;
+    margin-left: 30%;
+    opacity: 0.8;
+  }
